@@ -43,12 +43,10 @@ author:
   facebook         : "virginia1718" # Replace with your Facebook username
   linkedin         : "zih-ching-chen-7158111b0" # Replace with your LinkedIn username
   medium           : "https://medium.com/@virginiam1988" # Replace with your Medium profile URL
-  twitter          : "chen8819" # Replace with your Twitter username
+  twitter          : "virginiakm1988" # Replace with your Twitter username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -99,9 +97,9 @@ yandex_site_verification : "your_yandex_site_verification_code"
 
 # Social Sharing
 twitter:
-  username               : "your_twitter_username"
+  username               : "virginiakm1988"
 facebook:
-  username               : "your_facebook_username"
+  username               : "virginia1718"
   app_id                 : "your_facebook_app_id"
   publisher              : "your_facebook_publisher_id"
 og_image                 : "og-image.png" # Ensure you have an og-image.png in your /images/ directory or update accordingly
@@ -194,7 +192,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
