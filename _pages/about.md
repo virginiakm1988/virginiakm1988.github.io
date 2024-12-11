@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zih-Ching Virginia Chen About Me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-# About Zih-Ching (Virginia) Chen
-
-![Profile Picture](/images/profile.png)
+![Profile Picture](/images/profile.jpg)
 
 Hello! I'm **Zih-Ching (Virginia) Chen**, a dedicated professional based in **Taipei, Taiwan**. I hold a **Master's degree in Communication Engineering** from **National Taiwan University**, where I specialized in **speech recognition and language processing**. Currently, I work as a **Solution Architect at NVIDIA AI Technology Center**, focusing on integrating AI technologies into various research workflows.
 
