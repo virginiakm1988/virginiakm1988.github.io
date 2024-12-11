@@ -21,7 +21,7 @@ repository               : "virginiakm1988/virginiakm1988.github.io"
 # Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # Ensure you have a profile.png in your /images/ directory
+  avatar           : "profile.jpg" # Ensure you have a profile.png in your /images/ directory
   name             : "Zih-Ching (Virginia) Chen"
   pronouns         : "she/her"  # Update if different
   bio              : "Master in Communication Engineering at National Taiwan University, specializing in speech recognition and language processing."
@@ -244,14 +244,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
